@@ -1,5 +1,8 @@
 # Art Bot
 
+https://github.com/chatbotkit/example-ai-art-chatbot/assets/60738984/84075133-ae8b-4568-8abb-4944ceeae13f
+
+
 This repository contains the code for an AI Art bot. Built with the ChatBotKit SDK, this example showcases how to render UI components inside an AI conversation.
 
 ## Technology Stack
