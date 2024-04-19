@@ -15,8 +15,10 @@ This repository contains the code for an AI Art bot. Built with the ChatBotKit S
 1. Ensure you have Node.js installed.
 2. Clone this repository.
 3. Install dependencies by running npm install.
-4. Set the `CHATBOTKIT_API_SECRET` environment variable with your ChatBotKit API secret.
+4. Create `.env.local` file in the root of the project and set the `CHATBOTKIT_API_SECRET` environment variable with your ChatBotKit API secret.
 5. Optionally, set the `CHATBOTKIT_MODEL` environment variable to specify the model used for conversation (default is GPT-3.5 Turbo).
+
+Note: for images we use "sep.turbifycdn.com". If your images are coming from a different domain you can add/replace it in the `next.config.mjs` file.
 
 ## Usage
 
