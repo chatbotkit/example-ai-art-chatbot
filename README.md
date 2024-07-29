@@ -1,3 +1,5 @@
+[![Demo](https://img.shields.io/badge/live-demo-blue.svg)]([https://chatbotkit.com](https://chatbotkit-example-ai-art-chatbot.vercel.app/))
+
 # Art Bot
 
 https://github.com/chatbotkit/example-ai-art-chatbot/assets/60738984/84075133-ae8b-4568-8abb-4944ceeae13f
