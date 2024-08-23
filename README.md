@@ -1,4 +1,4 @@
-[![Demo](https://img.shields.io/badge/live-demo-blue.svg)]([https://chatbotkit.com](https://chatbotkit-example-ai-art-chatbot.vercel.app/))
+[![Demo](https://img.shields.io/badge/live-demo-blue.svg)](https://chatbotkit-example-ai-art-chatbot.vercel.app/)
 
 # Art Bot
 
